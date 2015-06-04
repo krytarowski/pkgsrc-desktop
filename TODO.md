@@ -4,3 +4,4 @@
 - Import kf5 (kde5) -- pieces are reused by LXQt
 - Import MATE as a replacement for Gnome 2.x
 - Upgrade KDE3 with TDE
+- import Trinity
