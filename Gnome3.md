@@ -114,6 +114,8 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 
 ####Unordered notes
 
+* TODO: Githubify packages https://github.com/GNOME
+
 ####What is done
 
 ####Screenshots
