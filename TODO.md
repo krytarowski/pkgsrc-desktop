@@ -1,2 +1,6 @@
 - benchmarks
 - [Lumina Desktop](https://github.com/pcbsd/lumina)
+- Gnome upgrade to 3.x
+- Import kf5 (kde5) -- pieces are reused by LXQt
+- Import MATE as a replacement for Gnome 2.x
+- Upgrade KDE3 with TDE
