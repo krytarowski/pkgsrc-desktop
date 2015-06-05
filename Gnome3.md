@@ -115,9 +115,11 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 
 ####Unordered notes
 
-* TODO: Githubify packages https://github.com/GNOME
+* TODO: Githubify packages https://github.com/GNOME Reported issues with missing tags on the mirror
 
 ####What is done
+
+* 2015-06-05 vala unversioned files are shipped again with ``lang/vala``, these files are required to bootstrap packages with ``./autogen.sh`` https://mail-index.netbsd.org/pkgsrc-changes/2015/06/05/msg125392.html
 
 ####Screenshots
 
