@@ -13,6 +13,7 @@ I'm working on Gnome3 import to pkgsrc.
 No | package in pkgsrc | notes | ready?
 ---|-------------------|-------|-------
 1 | editors/gedit3 | editors/gedit upgraded to 3.x |
+2 | x11/vte029 | x11/vte upgraded to the recent version |
 
 
 #### Gnome packages to be upgraded
@@ -105,7 +106,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 84 | wip/totem-pl-parser | multimedia/totem-pl-parser | | | |
 85 | wip/vinagre | net/vinagre | | | |
 86 | wip/vino | net/vino | | | |
-87 | wip/vte | x11/vte | | | |
+87 | wip/vte | x11/vte | 0.40 | 0.28.1 | |
 88 | wip/yelp | misc/yelp | | | |
 89 | wip/zenity | x11/zenity | | | |
 
