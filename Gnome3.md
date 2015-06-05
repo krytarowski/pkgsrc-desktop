@@ -108,7 +108,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 86 | wip/vino | net/vino | | | |
 87 | wip/vte | x11/vte | 0.40 | 0.28.1 | |
 88 | wip/yelp | misc/yelp | | | |
-89 | wip/zenity | x11/zenity | | | |
+89 | wip/zenity | x11/zenity | 3.16.2 | 2.32.1nb19 | |
 
 
 ####Notes
