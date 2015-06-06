@@ -110,7 +110,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 84 | wip/totem-pl-parser | multimedia/totem-pl-parser | | | |
 85 | wip/vinagre | net/vinagre | | | |
 86 | wip/vino | net/vino | | | |
-87 | wip/vte | x11/vte | 0.40 | 0.28.1nb16 | |
+87 | wip/vte | x11/vte | 0.40.2 | 0.28.1nb16 | |
 88 | wip/yelp | misc/yelp | | | |
 89 | wip/zenity | x11/zenity | 3.16.2 | 2.32.1nb19 | |
 
