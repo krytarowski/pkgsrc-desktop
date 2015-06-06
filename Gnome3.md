@@ -11,6 +11,7 @@ I'm working on Gnome3 import to pkgsrc.
 No | package in wip | proposed destination | wip version | notes | ready?
 ---|----------------|----------------------|-------------|-------|-------
 1 | wip/accountsservice | sysutils/accountsservice | 0.6.40 | 1 |
+2 | wip/yelp-tools | misc/yelp-tools | 3.16.1 | |
 
 #### Gnome packages to be removed
 
