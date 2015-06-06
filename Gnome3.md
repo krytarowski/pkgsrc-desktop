@@ -8,6 +8,10 @@ I'm working on Gnome3 import to pkgsrc.
 
 #### Gnome packages to be added
 
+No | package in wip | proposed destination | wip version | notes | ready?
+---|----------------|----------------------|-------------|-------|-------
+1 | wip/accountsservice | sysutils/accountsservice | 0.6.40 | 1 |
+
 #### Gnome packages to be removed
 
 No | package in pkgsrc | notes | ready?
@@ -113,9 +117,19 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 
 ####Notes
 
+* SystemBSD
+
+    13:06 < ajacoutot> no; systembsd is not going anywhere currently
+    13:07 < ajacoutot> I'd rather look into loginkit and consolekit2
+    13:07 < ajacoutot> the other stuff systembsd "would" provide is not mandatory (just nice to have, that's all)
+
+####Ordered notes
+
+1. 2015-06-06 WTMPX / NetBSD patch sent upstream https://bugs.freedesktop.org/show_bug.cgi?id=90882
+
 ####Unordered notes
 
-* TODO: Githubify packages https://github.com/GNOME Reported issues with missing tags on the mirror
+* TODO: Githubify packages https://github.com/GNOME Reported issues with missing tags on the mirror | Update (2015-06-06) GitHub shows all tags on the release page and hides them in the scroll popup menu
 
 ####What is done
 
