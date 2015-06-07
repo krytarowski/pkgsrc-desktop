@@ -94,7 +94,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 67 | wip/libgtop | sysutils/libgtop | | | |
 68 | wip/libgweather | devel/libgweather | | | |
 69 | wip/liboobs | sysutils/liboobs | | | |
-70 | wip/libsoup24 | net/libsoup24 | | | |
+70 | wip/libsoup | net/libsoup | | | |
 71 | wip/libwnck | devel/libwnck | | | |
 72 | wip/metacity | wm/metacity | | | |
 73 | wip/mousetweaks | misc/mousetweaks | | | |
