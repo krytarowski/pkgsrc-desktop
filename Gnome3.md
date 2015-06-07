@@ -125,9 +125,9 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 * TODO: Githubify packages https://github.com/GNOME Reported issues with missing tags on the mirror | Update (2015-06-06) GitHub shows all tags on the release page and hides them in the scroll popup menu
 * SystemBSD
 
-    13:06 < ajacoutot> no; systembsd is not going anywhere currently
-    13:07 < ajacoutot> I'd rather look into loginkit and consolekit2
-    13:07 < ajacoutot> the other stuff systembsd "would" provide is not mandatory (just nice to have, that's all)
+  > 13:06 < ajacoutot> no; systembsd is not going anywhere currently    
+  > 13:07 < ajacoutot> I'd rather look into loginkit and consolekit2     
+  > 13:07 < ajacoutot> the other stuff systembsd "would" provide is not mandatory (just nice to have, that's all)     
 
 
 ####What is done
