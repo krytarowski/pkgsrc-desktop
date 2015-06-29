@@ -39,7 +39,7 @@ x11/xfce4-gtk2-engine|3.2.0|3.2.0
 x11/xfce4-notes-plugin|1.8.1|1.8.1
 x11/xfce4-panel| 4.12.0| 4.12.0
 x11/xfce4-places-plugin|1.7.0|1.7.0
-x11/xfce4-session|4.10.1|**4.12.1** |NONTRIVIAL
+x11/xfce4-session|4.12.1|4.12.1
 x11/xfce4-settings|4.12.0|4.12.0
 x11/xfce4-terminal|0.6.3|0.6.3
 x11/libxfce4ui | 4.12.1| 4.12.1
