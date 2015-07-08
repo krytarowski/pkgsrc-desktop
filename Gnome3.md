@@ -129,6 +129,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
   > 13:07 < ajacoutot> I'd rather look into loginkit and consolekit2     
   > 13:07 < ajacoutot> the other stuff systembsd "would" provide is not mandatory (just nice to have, that's all)     
 
+* requested by jmcneill: please package dash-to-dock extension
 
 ####What is done
 
