@@ -1,4 +1,4 @@
-Place to share notes on Destkops in pkgsrc.
+Place to share notes on Desktops in pkgsrc.
 
 Goals:
 
