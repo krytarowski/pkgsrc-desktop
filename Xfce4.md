@@ -58,7 +58,25 @@ sysutils/xfce4-verve-plugin | 1.0.1| 1.0.1
 
 ####todo
 
-- update xfce4-session to 4.12.2 (need NetBSD hibernate command ?)
+- Add netbsd backend to upower and make it work with xfce4-power-manager app, settings, panel plugin.
+
+- commit local xfdashboard and xfce4-power-manager packages
+
+- add pulseaudio option to xfce4-mixer ? 
+
+- commit local htdocs/docs/guide/en/chap-x.xml work to document xfce better
+
+- recommend login manager 
+
+- fix {hal, fam, gvfs, gnome-mount, ...} mess to handle removable devices in thunar. trash bin works.
+
+- Changing application menu icon hangs?
+
+- few hangs with gvfs/hal installed
+
+- consolekit/dbus config files for shutdown,...
+
+- gdm dependency to switch users
 
 - get genmon to work (just crashes at startup)
 
