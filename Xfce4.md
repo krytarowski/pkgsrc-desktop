@@ -85,5 +85,12 @@ sysutils/xfce4-verve-plugin | 1.0.1| 1.0.1
 - more panel plugins: [http://archive.xfce.org/src/panel-plugins/](http://archive.xfce.org/src/panel-plugin) - [28/58 done]
 
 - more thunar plugins: [3/5 done]
+        - thunar-actions-plugin: no distfiles available
+        - thunar-archive-plugin: 0.3.1 ok
+        - thunar-media-tags-plugin: 0.2.1 ok
+        - thunar-shares-plugin: current release not supported by our thunar, fixed in upstream
+        - thunar-svn-plugin: not in pkgsrc, vcs-plugin replaces that
+        - thunar-vcs-plugin: 0.1.4 ok (include git/svn/..?)
+        - thunar-wallpaper-plugin: thunar already includes this fonctionality
 
 - more xfce applications: [http://archive.xfce.org/src/apps/](http://archive.xfce.org/src/apps/)
