@@ -82,6 +82,8 @@ sysutils/xfce4-verve-plugin | 1.0.1| 1.0.1
 
 - submit patches upstream
 
-- more panel plugins: [http://archive.xfce.org/src/panel-plugins/](http://archive.xfce.org/src/panel-plugin)
+- more panel plugins: [http://archive.xfce.org/src/panel-plugins/](http://archive.xfce.org/src/panel-plugin) - [28/58 done]
+
+- more thunar plugins: [3/5 done]
 
 - more xfce applications: [http://archive.xfce.org/src/apps/](http://archive.xfce.org/src/apps/)
