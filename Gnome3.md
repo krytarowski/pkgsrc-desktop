@@ -98,7 +98,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 71 | wip/libwnck | devel/libwnck | | | |
 72 | wip/metacity | wm/metacity | | | |
 73 | wip/mousetweaks | misc/mousetweaks | | | |
-74 | wip/nautilus | sysutils/nautilus | | | |
+74 | wip/nautilus | sysutils/nautilus | 3.16.2 | 2.32.2.1 | no |
 75 | wip/orca | misc/orca | | | |
 76 | wip/py-gtksourceview | x11/py-gtksourceview | | | |
 77 | wip/mousetweaks | misc/mousetweaks | | | |
