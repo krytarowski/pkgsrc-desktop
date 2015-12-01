@@ -76,7 +76,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 49 | wip/gnome-user-docs | misc/gnome-user-docs | | | |
 50 | wip/gnome-user-share | misc/gnome-user-share | | | |
 51 | wip/gnome-utils | misc/gnome-utils | | | |
-52 | wip/gok | misc/gok | | | |
+52 | wip/gok | misc/gok | 2.28.1 | | deprecated|
 53 | wip/gst-plugins0.10-base | multimedia/gst-plugins0.10-base | | | |
 54 | wip/gst-plugins0.10-good | multimedia/gst-plugins0.10-good | | | |
 55 | wip/gst-plugins0.10-pulse | audio/gst-plugins0.10-pulse | | | |
