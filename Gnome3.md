@@ -28,7 +28,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 1 | wip/gnome | meta-pkgs/gnome | 3.17 | 2.26.2 | |
 2 | wip/alacarte | x11/alacarte |  |  | |
 3 | wip/bug-buddy | net/bug-buddy |  |  | |
-4 | wip/cheese | graphics/cheese |  |  | |
+4 | wip/cheese | graphics/cheese | 2.26.3  | 3.18.1 | requires gstreamer >= 1.4 | no
 5 | wip/dasher | editors/dasher |  |  | |
 6 | wip/desktop-appplet | misc/desktop-applet |  |  | |
 7 | wip/ekiga | net/ekiga |  |  | |
@@ -98,7 +98,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 71 | wip/libwnck | devel/libwnck | | | |
 72 | wip/metacity | wm/metacity | | | |
 73 | wip/mousetweaks | misc/mousetweaks | | | |
-74 | wip/nautilus | sysutils/nautilus | 3.16.2 | 2.32.2.1 | no |
+74 | wip/nautilus | sysutils/nautilus | 3.16.2 | 2.32.2.1 | | no
 75 | wip/orca | misc/orca | | | |
 76 | wip/py-gtksourceview | x11/py-gtksourceview | | | |
 77 | wip/mousetweaks | misc/mousetweaks | | | |
