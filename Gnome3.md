@@ -112,7 +112,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 85 | wip/vinagre | net/vinagre | | | |
 86 | wip/vino | net/vino | | | |
 87 | wip/vte | x11/vte | 0.40.2 | 0.28.1nb16 | |
-88 | wip/yelp | misc/yelp | | | |
+88 | misc/yelp3 | misc/yelp | 2.30.2 | 3.16.1 | |
 89 | wip/zenity | x11/zenity | 3.16.2 | 2.32.1nb19 | |
 
 
