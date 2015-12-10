@@ -32,7 +32,7 @@ No | package in wip | proposed destination | wip version | pkgsrc version | note
 5 | wip/dasher | editors/dasher |  |  | |
 6 | wip/desktop-appplet | misc/desktop-applet |  |  | |
 7 | wip/ekiga | net/ekiga |  |  | |
-8 | wip/empathy | chat/empathy |  |  | |
+8 | wip/empathy | chat/empathy | 3.12.7 | 2.34.0 | |
 9 | wip/eog | chat/eom |  |  | |
 10 | wip/epiphany | www/epiphany |  | | |
 11 | wip/evolution | mail/evolution | | | |
